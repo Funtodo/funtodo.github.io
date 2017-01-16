@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jessie
-brief-intro: Machine Learning Alg Engineer
+brief-intro: Machine Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://funtodo.github.io/" # the base hostname & protocol for your site
 
